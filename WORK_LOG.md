@@ -1,9 +1,9 @@
-Name: YOUR NAME HERE
+Name: Eisha Yadav
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date   | Time |                                     Update |
+|:-------|:----:|-------------------------------------------:|
+| Sep 10 |      |                                            |
+|        |      |                                            |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
